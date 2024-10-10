@@ -1,0 +1,4 @@
+name: anti-spam
+version: '1.0-SNAPSHOT'
+main: com.simpleminecode.AntiSpamPlugin
+api-version: '1.21'
